@@ -1,0 +1,12 @@
+[submodule "Tomaszkiewicz.BotFramework"]
+	path = Tomaszkiewicz.BotFramework
+	url = https://github.com/tomaszkiewicz/BotFramework.git
+[submodule "SmogBot"]
+	path = SmogBot
+	url = https://github.com/tomaszkiewicz/SmogBot.git
+[submodule "GiosAirPollutionClient"]
+	path = GiosAirPollutionClient
+	url = https://github.com/tomaszkiewicz/GiosAirPollutionClient.git
+[submodule "BotFramework.Templates.ProactiveBot"]
+	path = BotFramework.Templates.ProactiveBot
+	url = https://github.com/tomaszkiewicz/BotFramework.Templates.ProactiveBot.git
