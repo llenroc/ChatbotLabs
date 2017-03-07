@@ -10,3 +10,6 @@
 [submodule "BotFramework.Templates.ProactiveBot"]
 	path = BotFramework.Templates.ProactiveBot
 	url = https://github.com/tomaszkiewicz/BotFramework.Templates.ProactiveBot.git
+[submodule "Tomaszkiewicz.DapperExtensions"]
+	path = Tomaszkiewicz.DapperExtensions
+	url = https://github.com/tomaszkiewicz/DapperExtensions.git
